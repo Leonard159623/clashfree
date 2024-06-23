@@ -209,8 +209,6 @@ proxy-groups:
       - 🇺🇸 美国CloudFlare公司CDN节点 9
       - 🇮🇳 印度  10
       - 🇨🇳 广东省江门市移动 11
-      - 🇺🇸 美国Fastly全球Anycast节点 13
-      - 🇺🇸 美国CloudFlare节点 14
   - name: 🎥 NETFLIX
     type: select
     proxies:
